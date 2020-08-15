@@ -1,7 +1,7 @@
 class ChattyStudent < Student
 
 def hello
-  hello.inherited
+  self.inherited
 end 
 
 
